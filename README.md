@@ -4,7 +4,7 @@ Welcome to my GitHub Repository
 
 ->This code is a part of my Artificial Intelligence Final Capstone Project that I completed after Attending Machine Learning and Deep Learning classes at Simplilearn.
 
-->Simplilearn is a Training Company for professionals which offers courses on wide variety of technologies and processes such as Digital Marketing , Data Science, DevOps, Agile and Scrum , and many more. It is based in India , USA and Singapore.
+->Simplilearn is a Training Company for professionals which offers courses on wide variety of technologies and processes such as Digital Marketing , Data Science, DevOps, Cybersecurity, Artificial Intelligence , and many more. It is based in India , USA and Singapore.
 
 ->You can find the dataset in the dataset.rar archive file. 
 
